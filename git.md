@@ -81,15 +81,20 @@ AM modified )
 <li> complete hone par commit dein and push kar dein
 <li> inform karein teamate ko about the commit
 <li> merger banda fetch karega and merge karega 
-
+</ol>
 <br>
 <br>
 
-git branch -M main
-git remote add origin URL
-git push -u origin main
-git push -u origin branchname
 
-stay in main branch and run command
-git merge branchname
-git push origin main
+<h2>Uploading to git </h2>
+<ol>
+<li>git branch -M main
+<li>git remote add origin URL
+<li>git push -u origin main
+<li>git push -u origin branchname
+</li>
+<br>
+<li>stay in main branch and run command
+<li>git merge branchname
+<li>git push origin main
+</ol>
